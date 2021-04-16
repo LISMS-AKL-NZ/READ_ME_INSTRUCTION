@@ -1,5 +1,5 @@
 # **GitHub Page Using Instruction**
-## _[Laboratory for Industry 4.0 Smart Manufacturing Systems]_
+[Laboratory for Industry 4.0 Smart Manufacturing Systems]
 
 This is an instruction document for new user to ths GitHub page.
 
