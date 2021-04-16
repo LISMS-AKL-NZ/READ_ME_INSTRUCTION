@@ -1,6 +1,8 @@
 # **GitHub Page Using Instruction**
 [Laboratory for Industry 4.0 Smart Manufacturing Systems]
 
+To join this organisation, please send your email address associated with the GitHub account to: zexuan.zhu@auckland.ac.nz
+
 This is an instruction document for new user to ths GitHub page.
 
 ## Change Your User Name
